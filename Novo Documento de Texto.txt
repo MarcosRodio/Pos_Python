@@ -1,3 +1,0 @@
-Pyqt5 
-QT designer
-MY SQL Conector
